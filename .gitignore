@@ -6,4 +6,6 @@ db.sqlite3
 thumbs.db
 
 # Ignore the test files
-tests
+*tests*
+
+rango/migrations
